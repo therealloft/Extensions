@@ -6,7 +6,11 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>CompleteExtensions</PackageId>
-    <Description />
+    <Description>Complete Extensions Library Visit 
+https://github.com/therealloft/Extensions</Description>
+    <PackageTags>Extensions</PackageTags>
+    <RepositoryUrl>https://github.com/therealloft/Extensions</RepositoryUrl>
+    <PackageReleaseNotes>Some documentation is missing</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
